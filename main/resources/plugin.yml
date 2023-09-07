@@ -1,0 +1,8 @@
+name: VanishPlugin
+version: '${project.version}'
+main: org.pl.vanishplugin.VanishPlugin
+api-version: '1.20'
+commands:
+  vanish:
+    aliases: v
+    description: Toggle player invisibility or specific actions

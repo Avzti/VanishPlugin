@@ -1,0 +1,22 @@
+# messages.yml
+
+messages:
+  no-permission: "&cYou do not have permission to use this command."
+  console-use: "&cOnly players can use this."
+  error-loading-config: "&4An error occurred while loading the configuration."
+  reload-config: "&aSuccessfully reloaded the configuration."
+  vanish-enabled: "&aYou are now invisible."
+  vanish-disabled: "&aYou are now visible."
+  interact-enabled: "&aEnabled item usage mode."
+  interact-disabled: "&cDisabled item usage mode."
+  interact-try: "&cYou cannot interact with items."
+  pickup-enabled: "&cEnabled item pickup mode."
+  pickup-disabled: "&cDisabled item pickup mode."
+  pickup-try: "&cYou cannot pick up items."
+  invalid-command: "&cCommand not found."
+  vanish-not-enabled: "&cYou are not invisible."
+  prefix: "&8--------[ &cVanish&4Help &8]--------"
+  info1: "&7/vanish reload &8- &7Reloading &8messages.yml"
+  info2: "&7/vanish help &8- &7Shows this message"
+  info3: "&7/vanish &8- &7Hide from players"
+  prefix-footer: "&8-----------------------------"
